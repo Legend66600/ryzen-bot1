@@ -34,7 +34,6 @@
         "openai": "^4.20.1",
         "phin": "^3.6.1",
         "pm2": "^5.2.0",
-        "quick.db": "^9.1.7",
         "quickmongo": "^5.2.0",
         "simply-djs": "^2.5.2",
         "superagent": "^8.1.2",
